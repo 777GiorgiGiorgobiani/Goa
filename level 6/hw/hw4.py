@@ -1,3 +1,7 @@
+# გაიმეორეთ გავლილი მასალა
+
+
+
 from random import *        # random-ის მოდული 
 
 

@@ -1,3 +1,6 @@
+# errormania
+
+
 sigma = "sigma"
 print int(sigma)
 print int(sigma)
