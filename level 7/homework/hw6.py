@@ -10,7 +10,7 @@ print(type(hellomsg))
 # integer - არის დატას ტიპი, ის იწერება სავსე ციფრის ფორმით.        მაგალითი:
 
 release_year = 1991
-print("pythong was made in the year", release_year)
+print("python was made in the year", release_year)
 print(type(release_year))
 
 
