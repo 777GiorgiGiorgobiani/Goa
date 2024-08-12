@@ -1,0 +1,47 @@
+body {
+    background-color: black;
+}
+
+.home {
+    background-color: red;
+    border-style: solid;
+    border-radius: 10px;
+    height: 40px;
+    width: 120px;
+    cursor: pointer;
+    transition: background-color 0.15s;
+}
+
+.home:hover {
+    background-color: teal;
+}
+
+
+.about {
+    background-color: green;
+    border-style: solid;
+    border-radius: 10px;
+    height: 40px;
+    width: 120px;
+    cursor: pointer;
+    transition: background-color 0.15s;
+}
+
+.about:hover {
+    background-color: purple;
+}
+
+
+.contact {
+    background-color: yellow;
+    border-style: solid;
+    border-radius: 10px;
+    height: 40px;
+    width: 120px;
+    cursor: pointer;
+    transition: background-color 0.15s;
+}
+
+.contact:hover {
+    background-color: blue;
+}

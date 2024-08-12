@@ -1,0 +1,10 @@
+body {
+    background-color: black;
+    background-image: url('../images/scary.png');
+
+}
+
+.list {
+    font-size: 40px;
+    color: white;
+}

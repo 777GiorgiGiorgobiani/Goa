@@ -1,0 +1,12 @@
+body {
+
+    background-color: black;
+
+
+    .text {
+        user-select: none;
+        text-align: center;
+        color: white;
+        font-size: 30px;
+    }
+}

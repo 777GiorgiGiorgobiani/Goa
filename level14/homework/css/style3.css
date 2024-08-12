@@ -1,0 +1,6 @@
+body {
+    background-color: black;
+    background-image: url('../images/coolimage.png');
+    background-repeat: no-repeat;
+    background-size: cover;
+}

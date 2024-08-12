@@ -1,0 +1,21 @@
+body {
+    background-color: black;
+}
+
+.fb-button {
+    height: 230px;
+    width: 230px;
+    border-radius: 10px;
+    border-width: 5px;
+    border-style: solid;
+    background-color: rgb(89,152,255);
+    color: white;
+    border-color: rgb(43, 66, 112);
+    cursor: pointer;
+    transition: background-color 0.15s;
+}
+
+.fb-button:hover {
+
+    background-color: rgb(89,152,200);
+}
